@@ -1,5 +1,6 @@
 # binary
 test
+sha256
 
 # object files
 *.o
